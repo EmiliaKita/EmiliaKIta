@@ -1,4 +1,4 @@
-<p align="left">Hello ! I am Emilia Kitanovski.</p>
+<p align="left">Hello ! Welcome to my GitHUb page !</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👩‍🎓  About Me<br><br>💻 Passionate about development and software engineering.<br><br>🔧 Technologies & Skills<br><br>Languages : HTML, JavaScript, CSS.</p>
+<p align="left">👩‍🎓  About Me :<br><br>💻 Curious about hardware and software engineering.<br><br>🔧 Technologies & Skills :<br><br>Languages : HTML, JavaScript, CSS.</p>
 
 ###
 
